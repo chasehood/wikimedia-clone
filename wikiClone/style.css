@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+.intro {
+    text-align: justify;
+    width: 880px;
+
+    margin: 0 auto;
+    font-size: 150%;
+}
+
+.welcome {
+    text-align: right;
+}
+
+.all-icon {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+    margin: 0 auto;
+    
+}
+
+.icon {
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 175px;
+    min-width: 150px;
+    max-width: 300px;
+}
+
+.wikilogo {
+    font-weight: bold;
+    margin: 1.5em auto;
+    text-align: left;
+    vertical-align: middle;
+    width: 90%;
+}
+
+img {
+    
+    width: 135px;
+}
+
+.footer {
+    padding-top: 10px;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    border-top: 0.5px solid black;
+    }
